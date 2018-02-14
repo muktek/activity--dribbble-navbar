@@ -34,6 +34,8 @@ Icons
 
 ## Final Result
 
+![Dribbble Responsive](dribbble-desktop.png)
+
 If you want to check the images go here:
 - [Mobile version](https://github.com/muktek/activity-dribbble-navbar/blob/master/dribbble-mobile.png)
 - [Desktop version](https://github.com/muktek/activity-dribbble-navbar/blob/master/dribbble-desktop.png)
